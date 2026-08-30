@@ -7,8 +7,6 @@
 ### Config.lua
 
 ```lua
-Config = {}
-
 Config.Colors = {
     Primary = '#E576B8',
     Secondary = '#FFFFFF50'
