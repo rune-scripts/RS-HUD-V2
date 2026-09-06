@@ -63,3 +63,5 @@ for _, bar in ipairs(esxBars) do
     table.insert(Config.Bars, bar)
 end
 ```
+
+## Get support on [Discord](https://discord.gg/abFcpDKqdX)
