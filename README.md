@@ -27,11 +27,6 @@ Config.Bars = {
     {name = 'armor', color = '#00ff88', source = function(ped) return GetPedArmour(ped) end},
     {name = 'stamina', color = '#FFC04D', source = function(ped) return 100 - GetPlayerSprintStaminaRemaining(PlayerId()) end},
 }
-
-
-
--- for ESX this is the most optimized way i found it only updates when player eats or drink (when esx:setPlayerData is called)
-local ESX = exports['es_extended']:getSharedObject()
 ```
 
 ## Get support on [Discord](https://discord.gg/abFcpDKqdX)
