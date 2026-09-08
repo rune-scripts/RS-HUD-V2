@@ -1,5 +1,7 @@
 # RS-HUD-V2
 
+ ## ! Release V1.2.0 has been removed; it contained a bad version of the JavaScript that contains test code made by AI. I will remove this in the next days. Sorry for the inconvenience
+
 ### Ingame Preview
 
 <img width="1920" height="1080" alt="Capture d&#39;écran 2026-09-05 182147" src="https://github.com/user-attachments/assets/c665298e-5309-43a8-92a8-26677916823d" />
