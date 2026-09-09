@@ -1,6 +1,6 @@
 # RS-HUD-V2
 
- ## ! Release V1.2.0 has been removed; it contained a bad version of the JavaScript that contains test code made by AI. I will remove this in the next days. Sorry for the inconvenience
+ ## V1.2.1 has been released !!;
 
 ### Ingame Preview
 
