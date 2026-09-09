@@ -20,7 +20,7 @@ Config.Bars = {
 }
 
 
-
+-- Test version of the qb-core config, I do not garanty this will work
 local QBCore = exports['qbx_core']:GetCoreObject()
 
 local statusCache = {
