@@ -1,6 +1,6 @@
 # RS-HUD-V2
 
- ## V1.2.1 has been released !!;
+ # V1.3.0 has been released !
 
 ### Ingame Preview
 
